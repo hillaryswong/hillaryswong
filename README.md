@@ -1,3 +1,3 @@
 - Hi I'm @hillaryswong.
-- Currently, I'm a undergraduate computer science student at the University of Texas at Dallas with plans to graduate in 2025.
-- Most of the things here are projects that I've done whether for academic or personal purposes.
+- I'm a Software Development Engineer 1 at GM Financial. I have experience with Azure, .NET API development, and MCP servers.
+- Currently, I'm working on getting an AWS certification!
